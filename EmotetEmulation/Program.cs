@@ -7,6 +7,18 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
+
+/*
+ * 
+ * To download the malware, use the following link. This is a zip file that contains a malicious .doc
+ * 
+ * https://hierthinking.com/wp-content/uploads/2021/01/03786321.doc-2.zip
+ * 
+ * Zip Password: infected
+ * 
+ */
+
+
 namespace EmotetEmulation
 {
     class Program
